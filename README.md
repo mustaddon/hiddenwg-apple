@@ -1,4 +1,4 @@
-# [WireGuard](https://www.wireguard.com/) for iOS and macOS
+# [HiddenWG](https://github.com/mustaddon/hiddenwg/) for iOS and macOS
 
 This project contains an application for iOS and for macOS, as well as many components shared between the two of them. You may toggle between the two platforms by selecting the target from within Xcode.
 
@@ -7,8 +7,8 @@ This project contains an application for iOS and for macOS, as well as many comp
 - Clone this repo:
 
 ```
-$ git clone https://git.zx2c4.com/wireguard-apple
-$ cd wireguard-apple
+$ git clone --recurse-submodules https://github.com/mustaddon/hiddenwg-apple
+$ cd hiddenwg-apple
 ```
 
 - Rename and populate developer team ID file:
